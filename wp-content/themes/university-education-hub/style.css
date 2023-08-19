@@ -1,0 +1,230 @@
+/*
+Theme Name: University Education Hub
+Template: elearning-education
+Text Domain: university-education-hub
+Author: ThemesPride
+Author URI: https://www.themespride.com/
+Theme URI: https://www.themespride.com/themes/free-university-wordpress-theme/
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Description: The University Education Hub WordPress Theme is a great way to show off your educational institution's website. It is packed with features that will make your site look professional and modern. The theme is responsive, so it will look great on all devices. It also includes a custom contact form, Google Maps integration, and social media icons. The University Education Hub WordPress Theme is an ideal option for all educational websites. It is easy to use and comes with all the features which you surely need to make your site look great. Get this WordPress Theme today, the university education hub is a sophisticated WordPress theme designed for colleges, universities, and other educational institutions. It is packed with features that enable you to create a powerful and user-friendly website for your school or academy. Some of the key features of the University Education Hub include a Responsive design that looks great on all devices, a drag-and-drop page builder for easy website creation, additionally, a learning management system for online courses for online study. It is also a powerful and user-friendly admin interface. The also makes the website comprehensive information on a wide range of topics, making it an essential tool for anyone planning on attending university.
+Tags: wide-blocks, block-styles, one-column, two-columns, right-sidebar, left-sidebar, three-columns, four-columns, grid-layout, custom-colors, custom-header, custom-background, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, full-width-template, sticky-post, theme-options, threaded-comments, news, photography, education
+Version: 1.6
+Tested up to: 6.2
+Requires PHP: 5.6
+Requires at least: 5.0
+*/
+
+h1, h2, h3, h4, h5, h6,.courses-box-content h3 a{
+    font-weight: bold;
+    color: #363a47;
+}
+
+.site-info,.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt,#theme-sidebar button[type="submit"], #footer button[type="submit"],a.register-btn,#slider .carousel-control-prev-icon, #slider .carousel-control-next-icon,#comments input[type="submit"],span.meta-nav,#theme-sidebar .tagcloud a:hover,.prev.page-numbers, .next.page-numbers,.page-numbers:hover{
+    background: #e34b11;
+}
+.lp-archive-courses .course-summary .course-summary-content .course-detail-info .course-info-left .course-meta .course-meta__pull-left .meta-item::before, #learn-press-course-tabs input[name=learn-press-course-tab-radio]:nth-child(1):checked ~ .learn-press-nav-tabs .course-nav:nth-child(1) label, #learn-press-course-tabs input[name=learn-press-course-tab-radio]:nth-child(2):checked ~ .learn-press-nav-tabs .course-nav:nth-child(2) label, #learn-press-course-tabs input[name=learn-press-course-tab-radio]:nth-child(3):checked ~ .learn-press-nav-tabs .course-nav:nth-child(3) label, .lp-archive-courses .course-summary .course-summary-content .course-detail-info .course-info-left .course-meta .course-meta__pull-left .meta-item.meta-item-categories .meta-item__value div a:hover, .lp-archive-courses .course-summary .course-summary-content .course-detail-info .course-info-left .course-meta .course-meta__pull-left .meta-item .meta-item__value > div a:hover, #learn-press-profile #profile-nav .lp-profile-nav-tabs > li > a > i, .learn-press-profile-course__tab__inner a.active, .learn-press-course-tab-filters .learn-press-filters a.active, input[type=radio]:nth-child(1):checked ~ .switch-btn:nth-child(2)::before, input[type=radio]:nth-child(3):checked ~ .switch-btn:nth-child(4)::before, .learn-press-breadcrumb li a:hover, .lp-archive-courses .learn-press-courses .course .course-item .course-content .course-permalink .course-title:hover, .lp-archive-courses .learn-press-courses[data-layout=list] .course .course-item .course-content .course-wrap-meta .meta-item::before, .lp-archive-courses .learn-press-courses .course .course-item .course-content .course-instructor a{
+    color: #e34b11 !important;
+}
+a,.box-content a, #theme-sidebar .textwidget a, #footer .textwidget a, .comment-body a, .entry-content a, .entry-summary a,#theme-sidebar h3,#theme-sidebar a:hover,.top-header a:hover,#main-content a{
+    color: #e34b11;
+}
+#footer .tagcloud a:hover{
+    border-color: #e34b11;
+}
+.woocommerce span.onsale,.woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover,.top-header,#footer,.main-navigation ul ul,a.teacher-btn,#theme-sidebar button[type="submit"]:hover, #footer button[type="submit"]:hover, #comments input[type="submit"]:hover,a.register-btn:hover,.page-numbers{
+    background: #5ba5af;
+}
+a:hover,.main-navigation .current_page_item > a, .main-navigation .current-menu-item > a, .main-navigation .current_page_ancestor > a,a.register-btn:hover,.search_inner .btn-secondary, .search_inner .btn-secondary:hover, .search_inner .btn-secondary:active,.box-info i,nav.woocommerce-MyAccount-navigation ul li a,.woocommerce ul.products li.product .price, .woocommerce div.product p.price, .woocommerce div.product span.price,h2.woocommerce-loop-product__title, .woocommerce div.product .product_title{
+    color: #5ba5af;
+}
+nav.woocommerce-MyAccount-navigation ul li{
+    border-color: #5ba5af;
+}
+.lp-archive-courses .course-summary .course-summary-content .course-detail-info, ul.learn-press-nav-tabs .course-nav.active::before, #learn-press-course .course-summary-sidebar .course-sidebar-preview .lp-course-buttons button:hover, #learn-press-profile .wrapper-profile-header, #learn-press-profile #profile-nav .lp-profile-nav-tabs li.active, #learn-press-profile #profile-nav .lp-profile-nav-tabs li:hover, .lp-archive-courses .learn-press-courses .course .course-item .course-content .course-categories a:first-child, .learn-press-message.error::before, .lp-archive-courses .learn-press-courses[data-layout=list] .course .course-item .course-content .course-readmore a{
+    background: #5ba5af !important;
+}
+.media-links i,a.register-btn:hover,.courses-info strong,.courses-info a,.category-inner-box h4{
+    color: #fff;
+}
+.headerbox,.menubar,.page-template-front-page .menubar,.page-template-front-page .innermenubox{
+    background: transparent;
+}
+.page-template-front-page .menubar{
+    position: static;
+    margin: 0;
+}
+.page-template-front-page .headerbox {
+    padding: 15px 0;
+}
+a.register-btn {
+    padding: 12px;
+    border-radius: 6px;
+    text-transform: none;
+    font-weight: 600;
+}
+.main-navigation li {
+    text-transform: none;
+}
+.main-navigation a {
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: #363a47;
+}
+
+#slider{
+    background: transparent;
+}
+#slider img {
+    opacity: unset;
+}
+#slider .inner_carousel h2 {
+    font-weight: bold;
+    background: rgb(54 58 71 / 50%);
+    padding: 20px;
+    font-size: 35px;
+}
+#slider .carousel-caption{
+    text-align: left;
+    right: 45%;
+}
+.more-btn a {
+    background: #e34b11;
+    border-radius: 6px;
+    color: #fff;
+}
+
+#online-courses{
+    background: transparent;
+}
+.courses-box-content h3 a{
+    font-weight: bold;
+}
+.courses-info {
+    background: #5ba5af;
+    padding: 15px;
+}
+.courses-info a {
+    float: right;
+    font-size: 15px;
+    font-weight: bold;
+}
+.courses-box {
+    box-shadow: 5px 5px 10px 3px #130e392e;
+}
+.courses-box-content h3,.courses-box-content p {
+    padding: 0 15px;
+}
+
+.category-inner-box {
+    background: rgb(54 58 71 / 50%);
+    padding: 20px;
+}
+.section-bundle {
+    position: relative;
+}
+#education-services {
+    position: absolute;
+    bottom: 30px;
+    width: 100%;
+}
+.category-inner-box i {
+    font-size: 60px;
+    color: #e34b11;
+}
+
+.headerbox i {
+    color: #fff;
+    background: #e34b11;
+    padding: 13px;
+    border-radius: 8px;
+}
+
+nav.woocommerce-MyAccount-navigation ul li {
+    border: solid 2px #5ba5af;
+    box-shadow: 2px 2px 0 0 #5ba5af;
+}
+.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt,#theme-sidebar button[type="submit"], #footer button[type="submit"],.box-info i {
+    border-radius: 6px;
+}
+#comments input[type="submit"],.wp-block-file .wp-block-file__button, .wp-block-button .wp-block-button__link {
+    font-weight: bold !important;
+    border-radius: 6px !important;
+}
+
+.site-info a:hover{
+  color: #FFF;
+}
+
+.menubar.login-user.stick_head {
+    background: #e34b11;
+    left: 0;
+}
+.menubar.stick_head {
+    position: fixed;
+}
+
+.center1, .center2 {
+border-left-color: #e34b11;
+border-top-color: #e34b11;
+}
+.center2 .ring::before, .center1 .ring::before{
+background: #e34b11;
+}
+
+@media screen and (max-width: 1000px){
+    .sidenav {
+        background-color: #5ba5af;
+    }
+    .main-navigation ul ul{
+        background-color: #5ba5af;
+    }
+    .menubar .nav ul li, .menubar.scrolled .main-navigation li {
+        border-top: 1px #252046 solid;
+    }
+    .main-navigation .current_page_item > a, .main-navigation .current-menu-item > a,  .main-navigation .current_page_ancestor > a{
+        color: #fff;
+    }
+    #slider .carousel-caption {
+        text-align: center;
+        right: 15%;
+    }
+    #university-education-hub{
+        position: static;
+    }
+    .category-inner-box {
+        margin: 15px 0 0;
+    }
+    .category-inner-box h4 {
+        font-size: 15px;
+    }
+    .category-inner-box i {
+        font-size: 35px;
+    }
+    #education-services{
+      position: static;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 1024px){
+    a.register-btn {
+        font-size: 12px;
+    }
+    #university-education-hub{
+        position: static;
+        padding: 15px 0;
+    }
+    .category-inner-box h4 {
+        font-size: 20px;
+    }
+    .category-inner-box i {
+        font-size: 55px;
+    }
+}
+
+@media screen and (min-width: 320px) and (max-width: 425px){
+
+  .menubar.login-user.stick_head {
+    margin-top: 0px;
+    background: no-repeat;
+}
+}

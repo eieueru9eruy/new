@@ -1,0 +1,180 @@
+# <!=Copyright (C) 2022 Rara Theme
+# This file is distributed under the GNU General Public License v3 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Smart Education 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/smart-education\n"
+"POT-Creation-Date: 2022-09-28 08:40:06+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: functions.php:46
+msgid "Demo and Documentation"
+msgstr ""
+
+#: functions.php:57
+msgid "Theme Documentation"
+msgstr ""
+
+#: functions.php:57 functions.php:59 functions.php:61 functions.php:63
+#: functions.php:65
+msgid "Click here"
+msgstr ""
+
+#: functions.php:59
+msgid "Theme Demo"
+msgstr ""
+
+#: functions.php:61
+msgid "Theme info"
+msgstr ""
+
+#: functions.php:63
+msgid "Support Ticket"
+msgstr ""
+
+#: functions.php:65
+msgid "More WordPress Themes"
+msgstr ""
+
+#: functions.php:68
+msgid "About Smart Education"
+msgstr ""
+
+#: functions.php:102
+msgid "Address"
+msgstr ""
+
+#: functions.php:120
+msgid "CTA Label"
+msgstr ""
+
+#: functions.php:138
+msgid "CTA Link"
+msgstr ""
+
+#: functions.php:157
+msgid "Enable Search Form"
+msgstr ""
+
+#: functions.php:158
+msgid "Enable to show search form in header."
+msgstr ""
+
+#: functions.php:314
+msgid "Copyright &copy;"
+msgstr ""
+
+#: functions.php:314
+msgid "Y"
+msgstr ""
+
+#: functions.php:318
+msgid "Smart Education | Developed By"
+msgstr ""
+
+#: functions.php:319
+msgid "Rara Themes"
+msgstr ""
+
+#: functions.php:320
+msgid "Powered by %s."
+msgstr ""
+
+#: functions.php:320
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: sections/section-slider.php:8
+msgid "Read More"
+msgstr ""
+
+#: sections/section-slider.php:9
+msgid "Better Education for a Better World"
+msgstr ""
+
+#: sections/section-slider.php:10
+msgid ""
+"Maecenas perspiciatis eleifend mollitia esse etiam rem harum? Sunt "
+"incididunt, sollicitudin earum anim quidem laoreet nibh, facilisis eiusmod!"
+msgstr ""
+
+#: sections/section-slider.php:11
+msgid "Get Started Now"
+msgstr ""
+
+#: sections/section-slider.php:13
+msgid "Enquiry"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Smart Education"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://rarathemes.com/wordpress-themes/smart-education/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"The Smart Education WordPress theme is designed for educational institutes "
+"and offers a clean, minimalistic, and professional design. This theme is "
+"suitable for building websites for colleges, schools, universities, "
+"learning management systems (LMS), training centers, academies, primary "
+"schools, high schools and kindergartens. The theme is highly customizable "
+"with various features and personalization options. The landing page of this "
+"theme includes an attractive banner, stats counter, courses section, "
+"testimonial section, banner with Call-to-Action(CTA) button, and social "
+"media. Its SEO friendliness and quick loading speed make it easier for your "
+"site to rank on Google and other search engines. Smart Education is also "
+"translation-ready, WooCommerce compatible, RTL script ready, and much more. "
+"Check the demo at https://rarathemes.com/previews/?theme=smart-education, "
+"documentation at https://docs.rarathemes.com/docs/smart-education/, and get "
+"support at https://rarathemes.com/support-ticket/."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Rara Theme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://rarathemes.com/"
+msgstr ""
+
+#: functions.php:177
+#. translators: If there are characters in your language that are not supported
+#. by Sora, translate this to 'off'. Do not translate into your own language.
+msgctxt "Sora font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:183
+#. translators: If there are characters in your language that are not supported
+#. by Urbanist, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Urbanist font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:189
+#. translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr ""

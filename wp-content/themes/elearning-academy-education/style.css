@@ -1,0 +1,217 @@
+/*
+Theme Name: Elearning Academy Education
+Template: elearning-education
+Text Domain: elearning-academy-education
+Author: ThemesPride
+Author URI: https://www.themespride.com/
+Theme URI: https://www.themespride.com/themes/free-education-wordpress-theme/
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Description: The Elearning Academy Education theme is a topic that was designed to be used for online education, learning teaching, tutoring, university, training center secondary and college schools, book sales tuition, workshops, schools course hub digital skills development center, and different educational institutes. This is an excellent theme for getting started. This theme includes options like integrating social media with optimized code that are SEO-friendly animated, translation-ready, and cross-browser. The theme makes it easy and easy to create and customize your website. Numerous plugins allow you to build pages within minutes using easy drag-and-drop tools. The unlimited skin colors and the large selection of Google Fonts give you even more options to customize the design and appearance of your site. The Elearning academy's education is fully responsive, which means you can be sure that your website will appear flawless across any device. The theme is developed as a Learning Management System for Courses Listing Platforms like Udemy, Training Center, Courses Hub, eLearning Business, College, Academy, University, or School. The full compatibility with the world's top page builder lets you create your website in minutes. Drag and drop builders with a simplified edit and designing process, advanced features, live preview, and fast work.
+Tags: wide-blocks, block-styles, one-column, two-columns, right-sidebar, left-sidebar, three-columns, four-columns, grid-layout, custom-colors, custom-header, custom-background, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, full-width-template, sticky-post, theme-options, threaded-comments, news, blog, education
+Version: 1.4
+Tested up to: 6.2
+Requires PHP: 5.6
+Requires at least: 5.0
+*/
+
+h1,h2,h3,h4,h5,h6,body{
+    font-family: 'Roboto', sans-serif;
+}
+h1, h2, h3, h4, h5, h6,.courses-box-content h3 a{
+    font-weight: bold;
+    color: #363a47;
+}
+
+.site-info,.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt,#theme-sidebar button[type="submit"], #footer button[type="submit"],a.register-btn,#slider .carousel-control-prev-icon, #slider .carousel-control-next-icon,#comments input[type="submit"],span.meta-nav,#theme-sidebar .tagcloud a:hover,.prev.page-numbers, .next.page-numbers,.page-numbers:hover{
+    background: #fdc800;
+}
+.lp-archive-courses .course-summary .course-summary-content .course-detail-info .course-info-left .course-meta .course-meta__pull-left .meta-item::before, #learn-press-course-tabs input[name=learn-press-course-tab-radio]:nth-child(1):checked ~ .learn-press-nav-tabs .course-nav:nth-child(1) label, #learn-press-course-tabs input[name=learn-press-course-tab-radio]:nth-child(2):checked ~ .learn-press-nav-tabs .course-nav:nth-child(2) label, #learn-press-course-tabs input[name=learn-press-course-tab-radio]:nth-child(3):checked ~ .learn-press-nav-tabs .course-nav:nth-child(3) label, .lp-archive-courses .course-summary .course-summary-content .course-detail-info .course-info-left .course-meta .course-meta__pull-left .meta-item.meta-item-categories .meta-item__value div a:hover, .lp-archive-courses .course-summary .course-summary-content .course-detail-info .course-info-left .course-meta .course-meta__pull-left .meta-item .meta-item__value > div a:hover, #learn-press-profile #profile-nav .lp-profile-nav-tabs > li > a > i, .learn-press-profile-course__tab__inner a.active, .learn-press-course-tab-filters .learn-press-filters a.active, input[type=radio]:nth-child(1):checked ~ .switch-btn:nth-child(2)::before, input[type=radio]:nth-child(3):checked ~ .switch-btn:nth-child(4)::before, .learn-press-breadcrumb li a:hover, .lp-archive-courses .learn-press-courses .course .course-item .course-content .course-permalink .course-title:hover, .lp-archive-courses .learn-press-courses[data-layout=list] .course .course-item .course-content .course-wrap-meta .meta-item::before, .lp-archive-courses .learn-press-courses .course .course-item .course-content .course-instructor a{
+    color: #fdc800 !important;
+}
+a,.box-content a, #theme-sidebar .textwidget a, #footer .textwidget a, .comment-body a, .entry-content a, .entry-summary a,#theme-sidebar h3,#theme-sidebar a:hover,.top-header a:hover,#main-content a,.main-navigation .current_page_item > a, .main-navigation .current-menu-item > a, .main-navigation .current_page_ancestor > a{
+    color: #fdc800;
+}
+#footer .tagcloud a:hover{
+    border-color: #fdc800;
+}
+.woocommerce span.onsale,.woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover,.top-header,#footer,.main-navigation ul ul,a.teacher-btn,#theme-sidebar button[type="submit"]:hover, #footer button[type="submit"]:hover, #comments input[type="submit"]:hover,a.register-btn:hover,.page-numbers,#slider{
+    background: #002147;
+}
+a:hover,a.register-btn:hover,.search_inner .btn-secondary, .search_inner .btn-secondary:hover, .search_inner .btn-secondary:active,.box-info i,nav.woocommerce-MyAccount-navigation ul li a,.woocommerce ul.products li.product .price, .woocommerce div.product p.price, .woocommerce div.product span.price,h2.woocommerce-loop-product__title, .woocommerce div.product .product_title,.main-navigation a{
+    color: #002147;
+}
+nav.woocommerce-MyAccount-navigation ul li{
+    border-color: #002147;
+}
+.lp-archive-courses .course-summary .course-summary-content .course-detail-info, ul.learn-press-nav-tabs .course-nav.active::before, #learn-press-course .course-summary-sidebar .course-sidebar-preview .lp-course-buttons button:hover, #learn-press-profile .wrapper-profile-header, #learn-press-profile #profile-nav .lp-profile-nav-tabs li.active, #learn-press-profile #profile-nav .lp-profile-nav-tabs li:hover, .lp-archive-courses .learn-press-courses .course .course-item .course-content .course-categories a:first-child, .learn-press-message.error::before, .lp-archive-courses .learn-press-courses[data-layout=list] .course .course-item .course-content .course-readmore a{
+    background: #002147 !important;
+}
+.media-links i,a.register-btn:hover,.courses-info strong,.courses-info a,.category-inner-box h4,.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt{
+    color: #fff !important;
+}
+.headerbox,.menubar,.page-template-front-page .menubar,.page-template-front-page .innermenubox{
+    background: transparent;
+}
+.page-template-front-page .menubar{
+    position: static;
+    margin: 0;
+}
+.page-template-front-page .headerbox {
+    padding: 15px 0;
+}
+a.register-btn {
+    padding: 12px;
+    border-radius: 6px;
+    text-transform: none;
+    font-weight: 600;
+}
+.main-navigation li,.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt {
+    text-transform: none;
+}
+.main-navigation a {
+    font-size: 14px;
+    letter-spacing: 1px;
+    font-weight: 500;
+}
+#slider img {
+    opacity: 0.6;
+}
+#slider .inner_carousel h2 {
+    font-weight: bold;
+    font-size: 45px;
+}
+#slider .carousel-caption{
+    text-align: right;
+    right: 15%;
+    left: 45%;
+}
+.more-btn a {
+    background: #fdc800;
+    border-radius: 6px;
+    color: #fff;
+}
+
+#online-courses{
+    background: transparent;
+}
+.courses-box-content h3 a{
+    font-weight: bold;
+}
+.courses-info {
+    background: #002147;
+    padding: 15px;
+}
+.courses-info a {
+    float: right;
+    font-size: 15px;
+    font-weight: bold;
+}
+.courses-box {
+    box-shadow: 5px 5px 10px 3px #130e392e;
+}
+.courses-box-content h3,.courses-box-content p {
+    padding: 0 15px;
+}
+.category-inner-box {
+    padding: 20px;
+    text-align: center;
+}
+.section-bundle {
+    position: relative;
+}
+#education-services {
+    position: relative;
+    width: 100%;
+    margin-top: -100px;
+}
+.category-inner-box i {
+    font-size: 60px;
+    color: #fff;
+    margin-bottom: 15px;
+}
+.edu-services-box {
+    background: #002147;
+    padding: 15px;
+}
+.category-inner-box1{
+    background: #ff6f6f;
+}
+.category-inner-box2{
+    background: #b5d56a;
+}
+.category-inner-box3{
+    background: #f6316f;
+}
+.category-inner-box4{
+    background: #009688;
+}
+.headerbox i {
+    color: #fff;
+    background: #fdc800;
+    padding: 13px;
+    border-radius: 8px;
+}
+
+.menubar.login-user.stick_head{
+  left: 0;
+}
+
+nav.woocommerce-MyAccount-navigation ul li {
+    border: solid 2px #002147;
+    box-shadow: 2px 2px 0 0 #002147;
+}
+.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt,#theme-sidebar button[type="submit"], #footer button[type="submit"],.box-info i {
+    border-radius: 6px;
+}
+#comments input[type="submit"],.wp-block-file .wp-block-file__button, .wp-block-button .wp-block-button__link {
+    font-weight: bold !important;
+    border-radius: 6px !important;
+}
+.menubar.stick_head {
+    position: fixed;
+}
+.center1, .center2 {
+  border-left-color: #fdc800;
+  border-top-color: #fdc800;
+  }
+.center2 .ring::before, .center1 .ring::before{
+  background: #fdc800;
+  }
+
+@media screen and (max-width: 1000px){
+    #education-services {
+        margin-top: 30px;
+    }
+    .sidenav {
+        background-color: #002147;
+    }
+    .main-navigation ul ul{
+        background-color: #002147;
+    }
+    .menubar .nav ul li, .menubar.scrolled .main-navigation li {
+        border-top: 1px #252046 solid;
+    }
+    .main-navigation .current_page_item > a, .main-navigation .current-menu-item > a{
+        color: #fff;
+    }
+    #slider .carousel-caption {
+        text-align: center;
+        right: 15%;
+        left: 15%;
+    }
+    .category-inner-box {
+        margin: 15px 0 0;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 1024px){
+    a.register-btn {
+        font-size: 12px;
+    }
+    #elearning-academy-education{
+        padding: 15px 0;
+    }
+    #education-services {
+        margin-top: -50px;
+    }
+}
